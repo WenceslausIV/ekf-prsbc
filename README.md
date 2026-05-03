@@ -7,7 +7,7 @@ This repository contains the Python implementation of Probabilistic Safe Barrier
 * **State Estimation:** Utilizes an Extended Kalman Filter (EKF) to estimate robot states under sensor and system uncertainties.
 * **Probabilistic Safety Guarantees:** Implements Probabilistic Barrier Certificates (PrSBC) to probabilistically guarantee safety under uncertainties.
 
-## 🎥 Demonstrations
+## 🎥 Demonstration
 ![ezgif com-cut](https://github.com/user-attachments/assets/695d7b70-e371-4b34-86ed-395645849eb7)
 
 ## 📊 Performance
