@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository contains the Python implementation of Probabilistic Safe Barrier Certificates (PrSBC) integrated with an Extended Kalman Filter (EKF). Designed for uncertain environments, this framework ensures robust collision avoidance and accurate state estimation for mobile robots.
 
-### ✨ Key Features
+### Key Features
 * **State Estimation:** Utilizes an Extended Kalman Filter (EKF) to estimate robot states under sensor and system uncertainties.
 * **Probabilistic Safety Guarantees:** Implements Probabilistic Barrier Certificates (PrSBC) to probabilistically guarantee safety under uncertainties.
 
