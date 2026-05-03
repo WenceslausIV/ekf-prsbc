@@ -10,7 +10,7 @@ This repository contains the Python implementation of Probabilistic Safe Barrier
 ## 🎥 Demonstrations
 ![ezgif com-cut](https://github.com/user-attachments/assets/695d7b70-e371-4b34-86ed-395645849eb7)
 
-## 📊 EKF Performance
+## 📊 Performance
 <img src="https://github.com/user-attachments/assets/e04067cb-b9a2-45a9-8126-214581961af3" alt="IMG_5535" width="400"/>
 
 The algorithms are built on a modified Robotarium Python implementation originally provided by [Georgia Tech](https://www.robotarium.gatech.edu/).
